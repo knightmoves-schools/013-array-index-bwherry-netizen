@@ -5,11 +5,12 @@ public class Calendar
 
     public string FindCurrentSeason(){
         
-       public string secondSeason = Seasons[1];
+    string secondSeason = Seasons[1];
         
         return secondSeason;
         
     }
 }
+
 
 
